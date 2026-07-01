@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🧠 My Focus Areas
+## My Focus Areas
 - Backend Development
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/GiovannaKarolline">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiovannaKarolline&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="GiovannaKarolline's GitHub Stats" />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/giovanna-karolline"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Giovanna Karolline Menezes Ribeiro's LinkedIn"/></a>
 </p>
