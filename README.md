@@ -97,7 +97,3 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/giovanna-karolline"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Giovanna Karolline Menezes Ribeiro's LinkedIn"/></a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
