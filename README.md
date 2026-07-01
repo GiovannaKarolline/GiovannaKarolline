@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## My Focus Areas
+## My Focus Area
 - Backend Development
 
 
